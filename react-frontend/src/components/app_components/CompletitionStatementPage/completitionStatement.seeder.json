@@ -1,0 +1,36 @@
+[
+    {
+        "dealId": "683abc123def456ghi789jkl",
+        "borrower": "Mrs Vanmathy Thuvarakesan; Skyrock Holdings Limited",
+        "property": "4 Rosebury Gardens, Sutton, SM1 4EZ",
+        "loanAdvance": "£210,000.00",
+        "firstMonthInterestRate": 1,
+        "firstMonthInterestAmount": "£2,100.00",
+        "arrangementFee": "£2,500.00",
+        "lendersBankTransferFee": "£35.00",
+        "otherDeductions": "£0.00",
+        "netLoanAdvance": "£205,365.00",
+        "amountToBeTransferredToSolicitor": "£205,365.00",
+        "lender": "AISN Finance",
+        "statementDate": 46156,
+        "authorisedSignatory": "Admin User",
+        "status": "Draft"
+    },
+    {
+        "dealId": "683abc123def456ghi789jkl",
+        "borrower": "Mr Michael Johnson; MJ Property Holdings Ltd",
+        "property": "12 King Street, London, W1A 1AA",
+        "loanAdvance": "£350,000.00",
+        "firstMonthInterestRate": 0.95,
+        "firstMonthInterestAmount": "£3,325.00",
+        "arrangementFee": "£5,250.00",
+        "lendersBankTransferFee": "£45.00",
+        "otherDeductions": "£500.00",
+        "netLoanAdvance": "£340,880.00",
+        "amountToBeTransferredToSolicitor": "£340,880.00",
+        "lender": "AISN Finance",
+        "statementDate": 46157,
+        "authorisedSignatory": "Finance Admin",
+        "status": "Ready To Send"
+    }
+]

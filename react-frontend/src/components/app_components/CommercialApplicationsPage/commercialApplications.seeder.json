@@ -1,0 +1,11 @@
+[
+    {
+        "dealId": "683abc123def456ghi789jkl",
+        "status": "Active",
+        "contactByTelephone": true,
+        "contactByPost": true,
+        "contactByElectronicMedia": true,
+        "contactForMarketResearch": true,
+        "applicationDocuments": "Sample"
+    }
+]

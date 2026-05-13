@@ -1,0 +1,11 @@
+[
+    {
+        "user": "683abc123def456ghi789jkl",
+        "name": "Sample",
+        "contactNo": 779564859,
+        "assignedSalesperson": "683abc123def456ghi789jkl",
+        "assignedAdmin": "683abc123def456ghi789jkl",
+        "status": "new",
+        "rejectionReason": "Sample"
+    }
+]

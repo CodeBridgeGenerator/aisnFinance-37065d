@@ -1,0 +1,33 @@
+[
+    {
+        "applicationId": "683abc123def456ghi789jkl",
+        "tradingName": "Sample Name",
+        "registeredName": "Sample Name",
+        "businessStartDate": "2026-01-01",
+        "natureOfBusiness": "Sample",
+        "businessAddress": "Sample",
+        "correspondenceAddress": "Sample",
+        "sharedMailbox": true,
+        "phone": "+94771234567",
+        "fax": "Sample",
+        "email": "sample@example.com",
+        "website": "Sample",
+        "registeredAddress": "Sample",
+        "companyRegNo": "Sample",
+        "countryOfRegistration": "Sample",
+        "incorporatedDate": "2026-01-01",
+        "businessType": "Sample",
+        "numPartners": 100,
+        "numDirectors": 100,
+        "numBeneficiaries": 100,
+        "shareholders": 100,
+        "anticipatedTurnover": 100,
+        "numEmployees": 100,
+        "madeCva": true,
+        "propertyRepossessed": true,
+        "courtOrder": true,
+        "missedRepayments": true,
+        "brokenCreditAgreement": true,
+        "adverseCreditDetails": "Sample"
+    }
+]

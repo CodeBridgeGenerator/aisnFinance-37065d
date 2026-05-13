@@ -1,0 +1,40 @@
+[
+    {
+        "dealId": "DEAL001",
+        "instructionDate": 46157,
+        "surveyorName": "John Surveyor",
+        "surveyorCompany": "Prime Valuations",
+        "surveyorEmail": "john@primeval.com",
+        "surveyorPhone": 771234567,
+        "inspectionDate": 46160,
+        "valuationCost": 850,
+        "vatAmount": 170,
+        "propertyAddress": "12 King Street London",
+        "estimatedValue": 950000,
+        "propertyDescription": "Commercial Office Building",
+        "propertyType": "Commercial",
+        "applicantName": "Michael Johnson",
+        "accessArrangedThrough": "Estate Agent",
+        "invoiceEmail": "accounts@aisn.com",
+        "status": "Instruction Sent"
+    },
+    {
+        "dealId": "DEAL002",
+        "instructionDate": 46158,
+        "surveyorName": "Sarah Valuer",
+        "surveyorCompany": "UK Survey Ltd",
+        "surveyorEmail": "sarah@uksurvey.com",
+        "surveyorPhone": 779876543,
+        "inspectionDate": 46162,
+        "valuationCost": 950,
+        "vatAmount": 190,
+        "propertyAddress": "22 Queen Road Birmingham",
+        "estimatedValue": 1250000,
+        "propertyDescription": "Retail Shopping Unit",
+        "propertyType": "Retail",
+        "applicantName": "ABC Holdings Ltd",
+        "accessArrangedThrough": "Owner",
+        "invoiceEmail": "finance@aisn.com",
+        "status": "Pending"
+    }
+]

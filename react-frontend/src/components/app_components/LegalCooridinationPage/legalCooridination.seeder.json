@@ -1,0 +1,23 @@
+[
+    {
+        "dealId": "683abc123def456ghi789jkl",
+        "aisnSolicitorFirm": "Sample",
+        "aisnSolicitorContact": "Sample",
+        "aisnSolicitorPhone": "+94771234567",
+        "aisnSolicitorEmail": "sample@example.com",
+        "clientSolicitorFirm": "Sample",
+        "clientSolicitorContact": "Sample",
+        "clientSolicitorPhone": "+94771234567",
+        "clientSolicitorEmail": "sample@example.com",
+        "docsSentToSolicitorAt": "2026-01-01",
+        "docsSentChecklist": "Sample",
+        "securityDocsPreparedAt": "2026-01-01",
+        "expectedCompletionDate": "2026-01-01",
+        "actualCompletionDate": "2026-01-01",
+        "completionTimelineNotes": "Sample",
+        "status": "Active",
+        "clientNotifiedAt": "2026-01-01",
+        "notificationTemplateUsed": "Sample",
+        "notes": "Sample"
+    }
+]

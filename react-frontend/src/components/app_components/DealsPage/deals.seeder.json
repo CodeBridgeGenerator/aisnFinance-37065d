@@ -1,0 +1,18 @@
+[
+    {
+        "clientId": "Sample 1",
+        "status": "Approved",
+        "phase": "Lead Sourcing",
+        "approvedAt": 46153,
+        "rejectedAt": 46153,
+        "rejectionReason": "Sample Rejection Reason 1"
+    },
+    {
+        "clientId": "Sample 2",
+        "status": "Rejected",
+        "phase": "Opportunity ",
+        "approvedAt": 46154,
+        "rejectedAt": 46154,
+        "rejectionReason": "Sample Rejection Reason 2"
+    }
+]

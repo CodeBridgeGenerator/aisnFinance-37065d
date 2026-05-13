@@ -1,0 +1,16 @@
+[
+    {
+        "dealId": "683abc123def456ghi789jkl",
+        "grossLoanAmount": 100,
+        "totalDeductions": 100,
+        "netAmountTransferred": 100,
+        "directorAapprovedAt": "2026-01-01",
+        "directorUserId": "683abc123def456ghi789jkl",
+        "fundsTransferredAt": "2026-01-01",
+        "solicitorReceivedAt": "2026-01-01",
+        "clientSolicitorReceivedAt": "2026-01-01",
+        "clientProgressNotifiedAt": "2026-01-01",
+        "status": "Active",
+        "notes": "Sample"
+    }
+]

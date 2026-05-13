@@ -1,0 +1,15 @@
+[
+    {
+        "dealId": "683abc123def456ghi789jkl",
+        "reviewedBy": "683abc123def456ghi789jkl",
+        "creditSafeResult": "Sample",
+        "creditSafeDate": "2026-01-01",
+        "propertyDeskReviewNotes": "Sample",
+        "residentialBtlDesktopVal": "Sample",
+        "commercialValuationNotes": "Sample",
+        "overallFindings": "Sample",
+        "recommendation": "Sample",
+        "status": "Active",
+        "reviewedAt": "2026-01-01"
+    }
+]

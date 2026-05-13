@@ -1,0 +1,11 @@
+[
+    {
+        "creditpaperId": "683abc123def456ghi789jkl",
+        "directorProfileId": "683abc123def456ghi789jkl",
+        "recommendationText": "Sample",
+        "decision": "Sample",
+        "comments": "Sample",
+        "signedAt": "2026-01-01",
+        "decidedAt": "2026-01-01"
+    }
+]

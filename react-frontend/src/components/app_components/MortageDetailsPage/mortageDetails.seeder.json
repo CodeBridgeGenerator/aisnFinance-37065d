@@ -1,0 +1,20 @@
+[
+    {
+        "applicationId": "683abc123def456ghi789jkl",
+        "requestedLoanAmount": "Sample",
+        "requestedRepaymentTerm": "Sample",
+        "purposeOfMortage": "Sample",
+        "mortgageHolders": "Sample",
+        "capitalRaisingFundUse": "Sample",
+        "investmentPropertyOccupier": "Sample",
+        "investmentPropertyOccupierDetails": true,
+        "solicitorName": "Sample Name",
+        "solicitorAddress": "Sample",
+        "solicitorPhoneNo": "+94771234567",
+        "solicitorEmail": "sample@example.com",
+        "intermediaryName": "Sample Name",
+        "intermediaryAddress": "Sample",
+        "intermediaryPhoneNo": "+94771234567",
+        "intermediaryEmail": "2026-01-01"
+    }
+]

@@ -1,0 +1,8 @@
+[
+    {
+        "dealId": "683abc123def456ghi789jkl",
+        "fromStage": "Sample",
+        "toStage": "Sample",
+        "changedAt": "2026-01-01"
+    }
+]
